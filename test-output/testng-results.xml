@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="14" passed="14">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="61703" started-at="2022-12-19T23:48:08 EST" finished-at="2022-12-19T23:49:09 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="61703" started-at="2022-12-19T23:48:08 EST" finished-at="2022-12-19T23:49:09 EST">
+      <class name="assignments.TutorialsNinja">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:assignments.TutorialsNinja@6a1aab78]" name="launchBrowser" is-config="true" duration-ms="6418" started-at="2022-12-19T23:48:08 EST" finished-at="2022-12-19T23:48:14 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="currencyEuroTest()[pri:1, instance:assignments.TutorialsNinja@6a1aab78]" name="currencyEuroTest" duration-ms="1847" started-at="2022-12-19T23:48:14 EST" finished-at="2022-12-19T23:48:16 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- currencyEuroTest -->
+        <test-method status="PASS" signature="searchCameraTest()[pri:2, instance:assignments.TutorialsNinja@6a1aab78]" name="searchCameraTest" duration-ms="4705" started-at="2022-12-19T23:48:16 EST" finished-at="2022-12-19T23:48:21 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchCameraTest -->
+        <test-method status="PASS" signature="selectIphone()[pri:3, instance:assignments.TutorialsNinja@6a1aab78]" name="selectIphone" duration-ms="5662" started-at="2022-12-19T23:48:21 EST" finished-at="2022-12-19T23:48:26 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectIphone -->
+        <test-method status="PASS" signature="viewCartTest()[pri:4, instance:assignments.TutorialsNinja@6a1aab78]" name="viewCartTest" duration-ms="1538" started-at="2022-12-19T23:48:26 EST" finished-at="2022-12-19T23:48:28 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewCartTest -->
+        <test-method status="PASS" signature="updateQuantityTest()[pri:5, instance:assignments.TutorialsNinja@6a1aab78]" name="updateQuantityTest" duration-ms="1796" started-at="2022-12-19T23:48:28 EST" finished-at="2022-12-19T23:48:30 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateQuantityTest -->
+        <test-method status="PASS" signature="printTaxTest()[pri:6, instance:assignments.TutorialsNinja@6a1aab78]" name="printTaxTest" duration-ms="1757" started-at="2022-12-19T23:48:30 EST" finished-at="2022-12-19T23:48:31 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printTaxTest -->
+        <test-method status="PASS" signature="errorMsgRemove()[pri:7, instance:assignments.TutorialsNinja@6a1aab78]" name="errorMsgRemove" duration-ms="1099" started-at="2022-12-19T23:48:31 EST" finished-at="2022-12-19T23:48:32 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- errorMsgRemove -->
+        <test-method status="PASS" signature="macBookTest()[pri:8, instance:assignments.TutorialsNinja@6a1aab78]" name="macBookTest" duration-ms="4494" started-at="2022-12-19T23:48:32 EST" finished-at="2022-12-19T23:48:37 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- macBookTest -->
+        <test-method status="PASS" signature="enterCouponCodeTest()[pri:9, instance:assignments.TutorialsNinja@6a1aab78]" name="enterCouponCodeTest" duration-ms="3700" started-at="2022-12-19T23:48:37 EST" finished-at="2022-12-19T23:48:41 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterCouponCodeTest -->
+        <test-method status="PASS" signature="enterGiftCertTest()[pri:10, instance:assignments.TutorialsNinja@6a1aab78]" name="enterGiftCertTest" duration-ms="2303" started-at="2022-12-19T23:48:41 EST" finished-at="2022-12-19T23:48:43 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterGiftCertTest -->
+        <test-method status="PASS" signature="clearValuesCheckoutTest()[pri:11, instance:assignments.TutorialsNinja@6a1aab78]" name="clearValuesCheckoutTest" duration-ms="10298" started-at="2022-12-19T23:48:43 EST" finished-at="2022-12-19T23:48:53 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearValuesCheckoutTest -->
+        <test-method status="PASS" signature="registerDetailsTest()[pri:12, instance:assignments.TutorialsNinja@6a1aab78]" name="registerDetailsTest" duration-ms="7402" started-at="2022-12-19T23:48:53 EST" finished-at="2022-12-19T23:49:01 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerDetailsTest -->
+        <test-method status="PASS" signature="commentsErrorMsgTest()[pri:13, instance:assignments.TutorialsNinja@6a1aab78]" name="commentsErrorMsgTest" duration-ms="2953" started-at="2022-12-19T23:49:01 EST" finished-at="2022-12-19T23:49:04 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- commentsErrorMsgTest -->
+        <test-method status="PASS" signature="contactUsTest()[pri:14, instance:assignments.TutorialsNinja@6a1aab78]" name="contactUsTest" duration-ms="5680" started-at="2022-12-19T23:49:04 EST" finished-at="2022-12-19T23:49:09 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactUsTest -->
+      </class> <!-- assignments.TutorialsNinja -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
